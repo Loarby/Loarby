@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning HTML and CSS
 - 💞️ I’m looking to collaborate on beginner friendly websites
-- 📫 How to reach me panjab.dashant26@gmail.com
+- 📫 How to reach me Discord Dastyyyy#8336
 
 <!---
 Loarby/Loarby is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
